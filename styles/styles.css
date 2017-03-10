@@ -47,6 +47,11 @@ header h4 {
   color: white;
 }
 
+article .whitespace-padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 article .bodyOfHomePage {
   font-family: 'Lato', serif;
   letter-spacing: 0.15em;

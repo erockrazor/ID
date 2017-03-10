@@ -59,6 +59,11 @@ header {
 }
 
 article {
+
+.whitespace-padding {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 	.bodyOfHomePage {
 		@include body-formatting;
 	}
